@@ -1,4 +1,4 @@
-# Module 5 Assignment: Netflix Data Visualization
+# Module 5 Assignment: Principal Component Analysis
 
 This is project is about carrying a data anaylysis at Anderson Cancer Center using the breast cancer dataset from sklearn.datasets. It involves loading the dataset from the library and standardizing the selected feature using a Scaling technique. This scaled data will now be decomposed into two component using Principal Component Analysis (PCA). This scaled data will now be used to train a logistic regression model. This model will be tested and evaluated in-order to determine its efficiency and correctness.
 
